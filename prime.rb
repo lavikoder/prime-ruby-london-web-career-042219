@@ -2,5 +2,6 @@ seq = [1...100]
 
 
 def prime?(num)
- num = 
+ if num >= 2 
+   num = (2...x-1)
 end
